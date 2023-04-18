@@ -1,0 +1,74 @@
+[
+    {
+        "codigo": 1,
+        "descricao": "Smartwatch com monitoramento de atividades físicas e notificações de celular",
+        "preco": "R$99.9",
+        "dt_cadastro": "19/09/2022"
+    },
+    {
+        "codigo": 2,
+        "descricao": "Fone de ouvido sem fio com cancelamento de ruído ativo",
+        "preco": "R$199.9",
+        "dt_cadastro": "11/01/2022"
+    },
+    {
+        "codigo": 3,
+        "descricao": "Câmera fotográfica DSLR com lente intercambiável",
+        "preco": "R$79.9",
+        "dt_cadastro": "01/03/2023"
+    },
+    {
+        "codigo": 4,
+        "descricao": "Tablet com tela de alta resolução e conectividade 4G",
+        "preco": "R$99.9",
+        "dt_cadastro": "07/09/2022"
+    },
+    {
+        "codigo": 5,
+        "descricao": "Console de videogame com gráficos em alta definição e jogos exclusivos",
+        "preco": "R$99.9",
+        "dt_cadastro": "12/12/2022"
+    },
+    {
+        "codigo": 6,
+        "descricao": "Notebook ultrafino com processador de última geração",
+        "preco": "R$999.9",
+        "dt_cadastro": "11/04/2023"
+    },
+    {
+        "codigo": 7,
+        "descricao": "Drone com câmera HD e controle remoto",
+        "preco": "R$39.9",
+        "dt_cadastro": "11/04/2023"
+    },
+    {
+        "codigo": 8,
+        "descricao": "Projetor de alta potência para home theater ou apresentações profissionais",
+        "preco": "R$949.9",
+        "dt_cadastro": "01/03/2023"
+    },
+    {
+        "codigo": 9,
+        "descricao": "Teclado gamer com iluminação RGB e teclas programáveis",
+        "preco": "R$499.9",
+        "dt_cadastro": "11/09/2023"
+    },
+    {
+        "codigo": 10,
+        "descricao": "Impressora multifuncional com conexão Wi-Fi e impressão frente e verso",
+        "preco": "R$199.9",
+        "dt_cadastro": "11/09/2023"
+    },
+    {
+        "codigo": 11,
+        "descricao": "Sistema de som surround com caixas acústicas e subwoofer",
+        "preco": "R$829.9",
+        "dt_cadastro": "11/01/2013"
+    },
+    {
+        "codigo": 12,
+        "descricao": "Monitor de computador ultrawide com taxa de atualização rápida e cores vibrantes.",
+        "preco": "R$4999.9",
+        "dt_cadastro": "02/02/2020"
+    }
+]
